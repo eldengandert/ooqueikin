@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahquohlee.lambdanaut.net/sitemap.xml
